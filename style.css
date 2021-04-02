@@ -1,6 +1,9 @@
 html, body {
     height: 100%;
     margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    background-color: olivedrab;
 }
 
 main {
