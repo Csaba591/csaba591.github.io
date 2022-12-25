@@ -48,6 +48,7 @@ main {
     font-size: var(--password-font-size);
 }
 
+
 #passwordScreen:valid {
     display: none;
 }
@@ -96,7 +97,7 @@ li {
 }
 
 img {
-    /* width: 180px; */
+    width: 180px;
 }
 
 .room-info {
